@@ -88,14 +88,17 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 ----LIVE EVENT----
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://tv.qreatifku.my.id/images/bwf.png",BWF BADMINTON 2023 [COURT1]
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://seeklogo.com/images/B/badminton-world-federation-bwf-logo-FBF116D69D-seeklogo.com.png",BWF BADMINTON 2023 [COURT1]
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/hls/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://tv.qreatifku.my.id/images/bwf.png",BWF BADMINTON 2023 [COURT2]
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://seeklogo.com/images/B/badminton-world-federation-bwf-logo-FBF116D69D-seeklogo.com.png",BWF BADMINTON 2023 [COURT2]
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/hls/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://tv.qreatifku.my.id/images/bwf.png",BWF BADMINTON 2023 [COURT3]
-https://dmd-fifajs-h5-ikuweb-hb.youku.com/fifa_jieshuo/YMQ-Court3HB_sjb720.m3u8?title=8153872&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=720p&quality=4&multi_raw_stream=YMQ-Court3HB&ccode=live05030101&expire=21600&psid=99089900D0DD2DBFAA51618B3540D482&ups_client_netip=140.213.15.61&ups_ts=1692701932&ups_userid=0&utid=defaultCnaLive20180425&vid=8153872_8091050&fn=YMQ-Court3HB_sjb720&vkey=B35c14407d0a9bfef00dadb3979595529&rid=200000008BB9E02BCB94392075C175FE7B3A4A5A00000000
-
-
-
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://seeklogo.com/images/B/badminton-world-federation-bwf-logo-FBF116D69D-seeklogo.com.png",BWF BADMINTON 2023 TV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+#http://202.147.204.114/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://seeklogo.com/images/B/badminton-world-federation-bwf-logo-FBF116D69D-seeklogo.com.png",BWF BADMINTON 2023 TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#http://202.147.204.114/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #END
