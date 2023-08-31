@@ -25,7 +25,9 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.com
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al8T2MD.png" group-title="Berita",TvOne
-http://210.210.155.35/qwr9ew/s/s105/01.m3u8?checkedby:iptvcat.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+http://202.147.204.114/live/eds/TVOne/sa_dash_vmx/TVOne.mpd 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0JyOrm.png" group-title="Berita",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Berita",CNN INTERNATIONAL
