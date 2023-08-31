@@ -31,7 +31,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.com
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",Indosiar
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="TV Nasional,NET.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="TV Nasional",NET.
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV Nasional",ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8?checkedby:iptvcat.com
