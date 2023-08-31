@@ -81,11 +81,19 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559543&extens
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Pengetahuan",National Geographic
 http://103.12.122.22:5000/play/a04h/index.m3u8
 
-----Hiburan----
+----HIBURAN----
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Hiburan",Rock Entertainment
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 
+----LIVE EVENT----
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://tv.qreatifku.my.id/images/bwf.png",BWF BADMINTON 2023 [COURT1]
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/hls/index.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://tv.qreatifku.my.id/images/bwf.png",BWF BADMINTON 2023 [COURT2]
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/hls/index.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://tv.qreatifku.my.id/images/bwf.png",BWF BADMINTON 2023 [COURT3]
+https://dmd-fifajs-h5-ikuweb-hb.youku.com/fifa_jieshuo/YMQ-Court3HB_sjb720.m3u8?title=8153872&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=720p&quality=4&multi_raw_stream=YMQ-Court3HB&ccode=live05030101&expire=21600&psid=99089900D0DD2DBFAA51618B3540D482&ups_client_netip=140.213.15.61&ups_ts=1692701932&ups_userid=0&utid=defaultCnaLive20180425&vid=8153872_8091050&fn=YMQ-Court3HB_sjb720&vkey=B35c14407d0a9bfef00dadb3979595529&rid=200000008BB9E02BCB94392075C175FE7B3A4A5A00000000
 
 
 
