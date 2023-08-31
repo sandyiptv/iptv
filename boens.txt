@@ -18,13 +18,23 @@ http://103.12.122.22:5000/play/a04f/index.m3u8
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155746&extension=ts&play_token=xdbt7BgLik
 #EXTINF:-1  tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="Film",Rock Action
 http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Film",Cinemax
+http://xtv.ooo:8080/88876776555/87677666654/350922
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Film",HBO
+http://xtv.ooo:8080/88876776555/87677666654/350955
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Film",HBO Family
+http://xtv.ooo:8080/88876776555/87677666654/350956
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Film",HBO Hits
+http://xtv.ooo:8080/88876776555/87677666654/350957
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Film",HBO Signature
+http://xtv.ooo:8080/88876776555/87677666654/350958
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Film",Hits Movies
+http://xtv.ooo:8080/88876776555/87677666654/350963
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Film",TVN Movies
+http://xtv.ooo:8080/88876776555/87677666654/351046
 
 ----TV NASIONAL----
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="TV Nasional",RCTI
-#EXTVLCOPT:Mozilla/5.0 (Linux; Android 10; K)
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/tv/rcti?from=live#RCTILIVE
-https://1m-rcti.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1692701187-0d3ecc0f3cd5321c1d275b81c58e3da1-0-437ef47b742a245cbf8607c6131f4b19
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV Nasional",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV Nasional",Trans7
@@ -37,6 +47,8 @@ http://210.210.155.37/qwr9ew/s/s04/index.m3u8?checkedby:iptvcat.com
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV Nasional",ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="TV Nasional",RCTI
+http://xtv.ooo:8080/88876776555/87677666654/351023
 
 ----BERITA----
 
@@ -74,6 +86,12 @@ https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 http://202.147.204.114/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Berita",INews
+http://xtv.ooo:8080/88876776555/87677666654/350973
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="Berita",MNC News
+http://xtv.ooo:8080/88876776555/87677666654/350992
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="Berita",NHK World
+http://xtv.ooo:8080/88876776555/87677666654/351011
 
 ----TV SERIAL----
 
@@ -88,11 +106,19 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559543&extens
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Pengetahuan",National Geographic
 http://103.12.122.22:5000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Pengetahuan",Nat Geo
+http://xtv.ooo:8080/88876776555/87677666654/351007
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="Pengetahuan",Nat Geo Wild
+http://xtv.ooo:8080/88876776555/87677666654/351008
 
 ----HIBURAN----
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Hiburan",Rock Entertainment
 http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xcLygUj.png" group-title="Hiburan",24/7 Just For Laughs
+http://xtv.ooo:8080/88876776555/87677666654/350883
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Hiburan",AXN
+http://xtv.ooo:8080/88876776555/87677666654/350895
 
 ----LIVE EVENT----
 
@@ -104,5 +130,32 @@ http://202.147.204.114/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 http://202.147.204.114/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/d-s_Kf07gVolGnnU78fa7Zwe6OA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-7838ab.jpg" group-title="Live Event", Champion 5
+http://xtv.ooo:8080/88876776555/87677666654/350877
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/M-OjFdz5vPoCtfuqZ8PoJF4Pe0g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-c8e810.jpg" group-title="Live Event", Champion 6
+http://xtv.ooo:8080/88876776555/87677666654/350878
+
+----KARTUN----
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="Kartun",Cartoonito
+http://xtv.ooo:8080/88876776555/87677666654/350908
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Kartun",24/7 Angry Birds Toons
+http://xtv.ooo:8080/88876776555/87677666654/350879
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Kartun",24/7 Donald Ducks
+http://xtv.ooo:8080/88876776555/87677666654/350881
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Kartun",24/7 Doraemon
+http://xtv.ooo:8080/88876776555/87677666654/350882
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Kartun",24/7 Mr Bean Cartoon
+http://xtv.ooo:8080/88876776555/87677666654/350884
+
+----Olahraga----
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Olahraga",NBA TV
+http://xtv.ooo:8080/88876776555/87677666654/351009
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="Olahraga",SpoTV
+http://xtv.ooo:8080/88876776555/87677666654/351034
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="Olahraga",SpoTV 2
+http://xtv.ooo:8080/88876776555/87677666654/351035
+
 
 #END
