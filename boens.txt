@@ -35,7 +35,7 @@ http://xtv.ooo:8080/88876776555/87677666654/351046
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Film",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtL5L81.png" group-title="Film",Flicks of Fury
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=
 
 ----TV NASIONAL----
 
@@ -121,7 +121,7 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 http://xtv.ooo:8080/88876776555/87677666654/350883
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Hiburan",AXN
 http://xtv.ooo:8080/88876776555/87677666654/350895
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Fashion TV
+#EXTINF:-1 tvg-logo="https://imgur.io/cZWKyuM.png" group-title="Hiburan",Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 ----LIVE EVENT----
