@@ -2,8 +2,6 @@
 
 ----FILM----
 
-#EXTINF:-1 tvg-logo="https://www.newmediafilmfestival.com/img/hbo.png" group-title="Film",HBO (Asia)
-http://218.202.220.2:5000/nn_live.ts?id=HBO&checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298526
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 02
