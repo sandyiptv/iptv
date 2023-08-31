@@ -12,6 +12,8 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298529
 http://103.12.122.22:5000/play/a057/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" group-title="Film",Star Movies India
 http://103.12.122.22:5000/play/a04f/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/qyyUlg3.png" group-title="Film",&Prive
+http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155746&extension=ts&play_token=xdbt7BgLik
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="TV Nasional",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
@@ -25,7 +27,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="TV Serial",Baywatch
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/images/bean.png" group-title="TV Serial",24/7 MR.BEAN
-http://raptor-tv.com:80/play/live.php?
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559543&extension=ts&play_token=10v7yXhJgO
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Pengetahuan",National Geographic
 http://103.12.122.22:5000/play/a04h/index.m3u8
