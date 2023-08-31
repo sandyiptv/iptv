@@ -8,6 +8,8 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298527
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298528
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 04
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298529
+#EXTINF:-1, tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Film",&Flix
+http://103.12.122.22:5000/play/a057/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="TV Nasional",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
