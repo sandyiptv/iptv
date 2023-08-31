@@ -130,22 +130,18 @@ http://202.147.204.114/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 http://202.147.204.114/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/d-s_Kf07gVolGnnU78fa7Zwe6OA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-7838ab.jpg" group-title="Live Event", Champion 5
-http://xtv.ooo:8080/88876776555/87677666654/350877
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/M-OjFdz5vPoCtfuqZ8PoJF4Pe0g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-c8e810.jpg" group-title="Live Event", Champion 6
-http://xtv.ooo:8080/88876776555/87677666654/350878
 
 ----KARTUN----
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="Kartun",Cartoonito
 http://xtv.ooo:8080/88876776555/87677666654/350908
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Kartun",24/7 Angry Birds Toons
+#EXTINF:-1 tvg-logo="https://clipart-library.com/images/rcnjg4ocR.png" group-title="Kartun",24/7 Angry Birds Toons
 http://xtv.ooo:8080/88876776555/87677666654/350879
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Kartun",24/7 Donald Ducks
+#EXTINF:-1 tvg-logo="http://clipart-library.com/img/1377840.png" group-title="Kartun",24/7 Donald Ducks
 http://xtv.ooo:8080/88876776555/87677666654/350881
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Kartun",24/7 Doraemon
+#EXTINF:-1 tvg-logo="https://clipart-library.com/images/6cpLbKGzi.png" group-title="Kartun",24/7 Doraemon
 http://xtv.ooo:8080/88876776555/87677666654/350882
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Kartun",24/7 Mr Bean Cartoon
+#EXTINF:-1 tvg-logo="https://clipart-library.com/image_gallery/n1307357.jpg" group-title="Kartun",24/7 Mr Bean Cartoon
 http://xtv.ooo:8080/88876776555/87677666654/350884
 
 ----Olahraga----
@@ -156,6 +152,18 @@ http://xtv.ooo:8080/88876776555/87677666654/351009
 http://xtv.ooo:8080/88876776555/87677666654/351034
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="Olahraga",SpoTV 2
 http://xtv.ooo:8080/88876776555/87677666654/351035
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/d-s_Kf07gVolGnnU78fa7Zwe6OA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-7838ab.jpg" group-title="Olahraga",Champion 5
+http://xtv.ooo:8080/88876776555/87677666654/350877
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/M-OjFdz5vPoCtfuqZ8PoJF4Pe0g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-c8e810.jpg" group-title="Olahraga",Champion 6
+http://xtv.ooo:8080/88876776555/87677666654/350878
 
+----Musik----
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Musik",MTV Brazil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Musik",MTV Perancis
+http://190.2.155.162:8080/mtvfrance/mpegts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Musik",MTV Global
+http://195.24.89.82/MTV_SD/index.m3u8
 
 #END
