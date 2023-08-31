@@ -166,8 +166,7 @@ http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Musik",MTV Global
 http://195.24.89.82/MTV_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECUp1I0.png" group-title="Musik",MTV Classic
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-
+http://85.198.235.98:8081/play/a0k2/index.m3u8
 ----RADIO----
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpXd2Yy/pop.png" group-title="Radio", POP NAGASWARA TV
