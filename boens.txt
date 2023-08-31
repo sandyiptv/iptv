@@ -121,6 +121,8 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 http://xtv.ooo:8080/88876776555/87677666654/350883
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Hiburan",AXN
 http://xtv.ooo:8080/88876776555/87677666654/350895
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Fashion TV
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 ----LIVE EVENT----
 
@@ -250,70 +252,6 @@ http://onlineradiobox.com/json/id/kisrock/play
 http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
 
 ----Adult----
-#EXTM3U
-#EXTINF:-1,FASHION TV
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1,PLAYBOY TV
-http://50.7.120.164:8081/playboy/index.m3u8?wmsAuthSign=5d01b5e451de33083c9ea6fe383120e0-1685242471-44i801i58i63
-#EXTINF:-1,OLALA TV
-http://50.7.120.164:8081/olala/index.m3u8?wmsAuthSign=d661ee59f04b3e31b0569de7f46dfccd-1685242648-44i801i58i63
-#EXTINF:-1,PRIVATE HD
-http://50.7.120.164:8081/private_hd/index.m3u8?wmsAuthSign=52c50e28b792577c31484542a514e4e4-1685242815-44i801i58i63
-#EXTINF:-1,EXTASY HD
-http://50.7.120.164:8081/extasyhd/index.m3u8?wmsAuthSign=1eaae3d2b830d24e6f5611d3392f74e3-1685242896-44i801i58i63
-#EXTINF:-1,sextosenso
-http://50.7.120.164:8081/sextosenso/index.m3u8?wmsAuthSign=6962d40896f99c3334ee641052dbbad2-1685242998-44i801i58i63
-#EXTINF:-1,hustlerhd
-http://50.7.120.164:8081/hustlerhd/index.m3u8?wmsAuthSign=cc2058dccadabc298d6cf58f7113a03e-1685243141-44i801i58i63
-#EXTINF:-1,redlight
-http://50.7.120.164:8081/redlight/index.m3u8?wmsAuthSign=3bbc108784cd8ed69c56916515fb5b96-1685243210-44i801i58i63
-#EXTINF:-1,erox hd
-http://50.7.120.164:8081/erox/index.m3u8?wmsAuthSign=5793ef765af18b35316234e0faf2f7d3-1685243290-44i801i58i63
-#EXTINF:-1,bluehustler
-http://50.7.120.164:8081/bluehustler/index.m3u8?wmsAuthSign=2b5bb599217a2517e6c2838376eb628a-1685243365-44i801i58i63
-#EXTINF:-1,kap_fan
-http://50.7.120.164:8081/kap_fan/index.m3u8?wmsAuthSign=f5b80053e9d65393e6d66aaeec625966-1685243443-44i801i58i63
-#EXTINF:-1,SET
-http://50.7.120.164:8081/set/index.m3u8?wmsAuthSign=a49e5c75e4fdf7fcd5165a8b487c9548-1685243488-44i801i58i63
-#EXTINF:-1,fap_parody
-http://50.7.120.164:8081/fap_parody/index.m3u8?wmsAuthSign=cfa71f9fdfcc5a1b3205644b9d0f0257-1685243615-44i801i58i63
-#EXTINF:-1,XY Max HD
-http://50.7.222.90:8081/xy_max/index.m3u8?wmsAuthSign=e14c624e53f3260a03e9bafd24be6804-1685243811-44i801i58i63
-#EXTINF:-1,SuperOne HD
-http://50.7.120.164:8081/super_one/index.m3u8?wmsAuthSign=e239dc91bb8b8040de50b05ccfd02596-1685243866-44i801i58i63
-#EXTINF:-1,BABES TV 
-http://50.7.120.164:8081/babes/index.m3u8?wmsAuthSign=f5906e0365aa242e37bfcfacc6921682-1685244080-44i801i58i63
-#EXTINF:-1,VIVID RED HD
-http://50.7.120.164:8081/vivid_red/index.m3u8?wmsAuthSign=051189ac3b23052c1043f008b33179d5-1685244193-44i801i58i63
-#EXTINF:-1,Barely Legal TV
-http://50.7.120.164:8081/bar_legal/index.m3u8?wmsAuthSign=48259786bb57c848396dcee8883a3366-1685244238-44i801i58i63
-#EXTINF:-1,ox_ax_hd
-http://50.7.120.164:8081/ox_ax_hd/index.m3u8?wmsAuthSign=1cdb73f8a6c011e9cb93fc2aa6f36397-1685244379-44i801i58i63
-#EXTINF:-1,fap_parody 2
-http://50.7.120.164:8081/fap_parody/index.m3u8?wmsAuthSign=208674dc872583a68d44ba2b0d22bf37-1685244443-44i801i58i63
-#EXTINF:-1,faptv2
-http://50.7.120.164:8081/faptv2/index.m3u8?wmsAuthSign=dbe44e1d6b1b2c2a980061c8bcbc4b50-1685244510-44i801i58i63
-#EXTINF:-1,Dorcel TV
-http://50.7.120.164:8081/dorcel/index.m3u8?wmsAuthSign=b3c031099f2d40326cbc8d744167395e-1685244545-44i801i58i63
-#EXTINF:-1,penthouse2
-http://50.7.120.164:8081/penthouse2/index.m3u8?wmsAuthSign=3b3b2398e00316d38317893fc5172aed-1685244667-44i801i58i63
-#EXTINF:-1,pent_gol
-http://50.7.120.164:8081/pent_gol/index.m3u8?wmsAuthSign=2a0df35bdf70afa92b142a33d7352325-1685244721-44i801i58i63
-#EXTINF:-1,Brazzers TV Europe
-http://50.7.120.164:8081/brazzers_eu/index.m3u8?wmsAuthSign=f432fa12763255041ad336f3f7670ec9-1685244779-44i801i58i63
-#EXTINF:-1,KINOXXX
-http://50.7.120.164:8081/kinoxxx/index.m3u8?wmsAuthSign=f0e2ba6e9964e2bddbc423a575ed16c1-1685244836-44i801i58i63
-#EXTINF:-1,RED LIPS 1
-https://ip4.pokaz.me:1443/3/index.m3u8?wmsAuthSign=1685239247p44i801i58i63S69c1390eea8efc76a81cba843eb2ba14
-#EXTINF:-1,RED LIPS 2
-https://ip4.pokaz.me:1443/3/index.m3u8?wmsAuthSign=1685239247p44i801i58i63S69c1390eea8efc76a81cba843eb2ba14&rand=0.7570396528436847
-#EXTINF:-1,Brazzers TV
-https://ip4.pokaz.me:1443/46/index.m3u8?wmsAuthSign=1685239536p44i801i58i63Sf5a6d65c911bc2f968d91e82a212c97d
-#EXTINF:-1,BABES XXX
-https://ip3.pokaz.me:1443/14/index.m3u8?wmsAuthSign=1685239727p44i801i58i63S1c7fcbd0d380c992fbd4df8f60d749a8
-#EXTINF:-1,PLAYBOY 2
-http://50.7.120.164:8081/playboy/index.m3u8?wmsAuthSign=02540d0901bbe05d4fbba6bac6e0bf4e-1685245978-44i801i58i63
-#EXTINF:-1,PLAYBOY 3
-http://50.7.120.164:8081/playboy/index.m3u8?wmsAuthSign=99952a12f674e5b8c443c2105de12b77-1685246028-44i801i58i63&rand=0.8682845746819152
+
 
 #END
