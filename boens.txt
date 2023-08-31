@@ -1,5 +1,6 @@
 #EXTM3U
 
+----FILM----
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298526
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 02
@@ -14,7 +15,10 @@ http://103.12.122.22:5000/play/a057/index.m3u8
 http://103.12.122.22:5000/play/a04f/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/qyyUlg3.png" group-title="Film",&Prive
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155746&extension=ts&play_token=xdbt7BgLik
+#EXTINF:-1  tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="Film",Rock Action
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 
+----TV NASIONAL----
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="TV Nasional",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV Nasional",Trans TV
@@ -24,6 +28,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV Nasional",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8?checkedby:iptvcat.com
 
+----BERITA----
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al8T2MD.png" group-title="Berita",TvOne
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
@@ -59,6 +64,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 http://202.147.204.114/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
+----TV SERIAL----
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QS5lg0t.png" group-title="TV Serial",Mission Impossible
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="TV Serial",Baywatch
@@ -66,8 +72,13 @@ https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/images/bean.png" group-title="TV Serial",24/7 MR.BEAN
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559543&extension=ts&play_token=10v7yXhJgO
 
+----PENGETAHUAN----
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Pengetahuan",National Geographic
 http://103.12.122.22:5000/play/a04h/index.m3u8
+
+----Hiburan----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Hiburan",Rock Entertainment
+http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 
 
