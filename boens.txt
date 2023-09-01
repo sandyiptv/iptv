@@ -22,14 +22,22 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 http://xtv.ooo:8080/88876776555/87677666654/350922
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Film",HBO
 http://xtv.ooo:8080/88876776555/87677666654/350955
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Film",HBO (Backup)
+http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/197972
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Film",HBO Family
 http://xtv.ooo:8080/88876776555/87677666654/350956
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Film",HBO Family (Backup)
+http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/197055
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Film",HBO Hits
 http://xtv.ooo:8080/88876776555/87677666654/350957
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Film",HBO Hits (Backup)
+http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/196480
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Film",HBO Signature
 http://xtv.ooo:8080/88876776555/87677666654/350958
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Film",Hits Movies
 http://xtv.ooo:8080/88876776555/87677666654/350963
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Film",Hits Movies (Backup)
+http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/221947
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Film",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtL5L81.png" group-title="Film",Flicks of Fury
