@@ -4,18 +4,34 @@
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298526
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 02
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop02
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298527
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 03
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop03
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298528
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 04
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop04
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298529
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop (Backup#1)
+http://xtv.ooo:8080/88876776555/87677666654/350941
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop02 (Backup#1)
+http://xtv.ooo:8080/88876776555/87677666654/350942
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop03 (Backup#1)
+http://xtv.ooo:8080/88876776555/87677666654/350943
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop04 (Backup#1)
+http://xtv.ooo:8080/88876776555/87677666654/350944
+#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/images/etv1.png" group-title="Film", Etv Bioskop (Backup#2)
+https://s.id/1SL0J
+#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/images/etv2.png" group-title="Film", Etv Bioskop02 (Backup#2)
+https://s.id/1SL0Q
+#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/images/etv3.png" group-title="Film", Etv Bioskop03 (Backup#2)
+https://s.id/1SL0V
+#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/images/etv4.png" group-title="Film", Etv Bioskop04 (Backup#2)
+https://s.id/1SL0Z
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Film",&Flix
 http://103.12.122.22:5000/play/a057/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Film",&Flix (Backup#1)
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=282632&extension=ts&play_token=D0oyMUxS3A
 #http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=202688&extension=ts
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" group-title="Film",Star Movies India
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Film_logo.svg/512px-STAR_Film_logo.svg.png" group-title="Film",Star Film India
 http://103.12.122.22:5000/play/a04f/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/qyyUlg3.png" group-title="Film",&Prive
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155746&extension=ts&play_token=xdbt7BgLik
@@ -57,19 +73,19 @@ http://xtv.ooo:8080/88876776555/87677666654/350958
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Film",Hits Movies
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Film",Hits Film
 http://xtv.ooo:8080/88876776555/87677666654/350963
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Film",Hits Movies (Backup#1)
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Film",Hits Film (Backup#1)
 http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/221947
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Film",Hits Movies (Backup#2)
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Film",Hits Film (Backup#2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
-http://202.147.204.114/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+http://202.147.204.114/live/eds/HitsFilm/sa_dash_vmx/HitsFilm.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Film",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtL5L81.png" group-title="Film",Flicks of Fury
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="Film",tvN Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="Film",tvN Film
 http://210.210.155.37/dr9445/h/h21/index.m3u8?checkedby:iptvcat.com
 
 ----TV NASIONAL----
