@@ -218,6 +218,8 @@ http://195.24.89.82/MTV_SD/index.m3u8
 https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/869-8692831_musica-studios-musica-studio-logo.png" group-title="Musik",Musika Studios
 https://ythls.onrender.com/video/eF2h5f8_ERU.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECUp1I0.png" group-title="Musik",MTV 90S
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
 ----RADIO----
 
