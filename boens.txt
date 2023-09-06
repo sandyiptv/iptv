@@ -13,8 +13,7 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298529
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Film",&Flix
 http://103.12.122.22:5000/play/a057/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Film",&Flix (Backup#1)
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=282632&extension=ts&play_token=D0oyMUxS3A
-#http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=202688&extension=ts
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=202688&extension=ts
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Film_logo.svg/512px-STAR_Film_logo.svg.png" group-title="Film",Star Film India
 http://103.12.122.22:5000/play/a04f/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/qyyUlg3.png" group-title="Film",&Prive
