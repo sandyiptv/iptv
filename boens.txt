@@ -222,6 +222,8 @@ https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 https://ythls.onrender.com/video/eF2h5f8_ERU.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECUp1I0.png" group-title="Musik",MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECUp1I0.png" group-title="Musik",VH1 Classic
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/vh1.classic.ru.m3u8?checkedby:iptvcat.com
 
 ----RADIO----
 
