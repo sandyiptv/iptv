@@ -162,7 +162,7 @@ http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/165079
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
 http://202.147.204.114/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg" group-title="Hiburan",Fashion & Lifestyle
+#EXTINF:-1 tvg-logo="https://universaltv.ru/upload/images/logo/Fashion-One-logo.jpg" group-title="Hiburan",Fashion & Lifestyle
 http://193.33.240.8:8080/fashion_one_hd/index.m3u8?checkedby:iptvcat.com
 
 ----LIVE EVENT----
@@ -222,8 +222,6 @@ https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 https://ythls.onrender.com/video/eF2h5f8_ERU.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECUp1I0.png" group-title="Musik",MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ECUp1I0.png" group-title="Musik",VH1 Classic
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/vh1.classic.ru.m3u8?checkedby:iptvcat.com
 
 ----RADIO----
 
