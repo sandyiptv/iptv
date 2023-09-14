@@ -141,16 +141,12 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xcLygUj.png" group-title="Hiburan",24/7 Just For Laughs
 http://xtv.ooo:8080/88876776555/87677666654/350883
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZWKyuM.png" group-title="Hiburan",Fashion TV
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Hiburan",AXN
 http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/165079
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Hiburan",AXN (Backup#1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
 http://202.147.204.114/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#EXTINF:-1 tvg-logo="https://universaltv.ru/upload/images/logo/Fashion-One-logo.jpg" group-title="Hiburan",Fashion & Lifestyle
-http://193.33.240.8:8080/fashion_one_hd/index.m3u8?checkedby:iptvcat.com
 
 ----LIVE EVENT----
 
@@ -177,7 +173,6 @@ http://xtv.ooo:8080/88876776555/87677666654/350882
 http://xtv.ooo:8080/88876776555/87677666654/350884
 
 ----OLAHRAGA----
-
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="Olahraga",SpoTV
 http://xtv.ooo:8080/88876776555/87677666654/351034
