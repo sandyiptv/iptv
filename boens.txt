@@ -181,11 +181,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559543&extens
 
 ----PENGETAHUAN----
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Pengetahuan",Nat Geo
-http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="Pengetahuan",Nat Geo Wild
-http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
-
 ----HIBURAN----
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Hiburan",Rock Entertainment
@@ -200,15 +195,6 @@ http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/165079
 http://202.147.204.114/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 ----LIVE EVENT----
-
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://seeklogo.com/images/B/badminton-world-federation-bwf-logo-FBF116D69D-seeklogo.com.png",BWF BADMINTON 2023 TV 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-http://202.147.204.114/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://seeklogo.com/images/B/badminton-world-federation-bwf-logo-FBF116D69D-seeklogo.com.png",BWF BADMINTON 2023 TV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-http://202.147.204.114/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 ----KARTUN----
 
