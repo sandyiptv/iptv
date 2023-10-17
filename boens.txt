@@ -3,13 +3,13 @@
 ----FILM----
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298526
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop02
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298527
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop03
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298528
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop04
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298529
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/298526.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 02
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/298527.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 03
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/298528.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 04
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/298529.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Film",&Flix
 http://103.12.122.22:5000/play/a057/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Film",Sky Max
@@ -103,12 +103,25 @@ http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Film",Hits Film
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="Film",Hits
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/165085.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Film",Hits Movies
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/221947.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Film",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtL5L81.png" group-title="Film",Flicks of Fury
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="Film",tvN Film
 http://210.210.155.37/dr9445/h/h21/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="Film",Galaxy Premium
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/264774.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Film",HBO Family (streamtv)
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/197055.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Film",HBO Hits (streamtv)
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/196480.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Film",HBO Signature (streamtv)
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/221948.m3u8
 
 ----TV NASIONAL----
 
@@ -181,6 +194,9 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559543&extens
 
 ----PENGETAHUAN----
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="Pengetahuan",Nat Geo Wild
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/197967.m3u8
+
 ----HIBURAN----
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Hiburan",Rock Entertainment
@@ -208,6 +224,8 @@ http://xtv.ooo:8080/88876776555/87677666654/350881
 http://xtv.ooo:8080/88876776555/87677666654/350882
 #EXTINF:-1 tvg-logo="https://clipart-library.com/image_gallery/n1307357.jpg" group-title="Kartun",24/7 Mr Bean Cartoon
 http://xtv.ooo:8080/88876776555/87677666654/350884
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180330/xtw/kisspng-tom-cat-jerry-mouse-tom-and-jerry-hanna-barbera-an-tom-and-jerry-5abeaa08486e09.0032305515224448082967.jpg" group-title="Kartun",ID: 24/7 Tom And Jerry
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/298500.m3u8
 
 ----OLAHRAGA----
 
@@ -217,6 +235,8 @@ http://xtv.ooo:8080/88876776555/87677666654/351034
 http://xtv.ooo:8080/88876776555/87677666654/351035
 #EXTINF:-1 tvg-logo="https://strongmancl.com/wp-content/uploads/2019/08/SCL-logo.png" group-title="Olahraga",Strongman Champions League
 https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4401&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=6d192a5a-4f98-41b5-891c-5bbe788329d4&ads.user_type=visitor&ads.wurl_channel=1102
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Olahraga",NBA TV
+http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/298558.m3u8
 
 ----MUSIK----
 
