@@ -201,8 +201,8 @@ http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/197967.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Hiburan",Rock Entertainment
 http://210.210.155.37/dr9445/h/h16/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xcLygUj.png" group-title="Hiburan",24/7 Just For Laughs
-http://xtv.ooo:8080/88876776555/87677666654/350883
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/304/189/png-transparent-tlc-discovery-channel-universal-channel-animal-planet-investigation-discovery-tlc-television-television-text-rectangle-thumbnail.png" group-title="Hiburan",TLC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tlc.ru.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Hiburan",AXN
 http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/165079
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Hiburan",AXN (Backup#1)
