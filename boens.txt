@@ -2,6 +2,9 @@
 
 ----FILM----
 
+#EXTINF:-1 group-title="Film" tvg-id="andflix.in" tvg-logo="https://i.imgur.com/osXsFmU.png",&flix
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=282632&extension=ts&play_token=D0oyMUxS3A
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop
 http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/298526.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 02
