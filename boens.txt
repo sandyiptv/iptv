@@ -68,32 +68,14 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.com
 
 ----BERITA----
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al8T2MD.png" group-title="Berita",TvOne
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-http://202.147.204.114/live/eds/TVOne/sa_dash_vmx/TVOne.mpd 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0JyOrm.png" group-title="Berita",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Berita",CNN INTERNATIONAL
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="Berita" ,CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBxpyc.png" group-title="Berita" ,BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="Berita",METRO GLOBE NEWS
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="METRO TV" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Berita",METRO TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-http://202.147.204.114/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-#EXTINF:-1 tvg-id="IDX CHANNEL" tvg-logo="https://i.imgur.com/xPvrcsr.png" group-title="Berita",IDX CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
-http://202.147.204.114/live/eds/IDX/sa_dash_vmx/IDX.mpd
-#EXTINF:-1 tvg-id="KOMPAS TV" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Berita",KOMPAS TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
-http://202.147.204.114/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QmYZnQA.png" group-title="Berita",ON SPORTS NEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3349bfb9e97b4c659edc52b455b9e2e9:ecc1757d4a39cd32e24dfcdbe7ff0cab
