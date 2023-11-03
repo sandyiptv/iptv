@@ -10,8 +10,6 @@ http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/298527.m3u8
 http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/298528.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 04
 http://streamtv.balatack.my.id:8080/live/Vladisergeevic/7eef2c4388/298529.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Film",Sky Max
-http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=202688&extension=ts
 #EXTINF:-1  tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="Film",Rock Action
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Film",AsianCrush
