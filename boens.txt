@@ -2,9 +2,6 @@
 
 ----FILM----
 
-#EXTINF:-1 group-title="Film" tvg-id="andflix.in" tvg-logo="https://i.imgur.com/osXsFmU.png",&flix
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=282632&extension=ts&play_token=D0oyMUxS3A
-
 #EXTINF:-1  tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="Film",Rock Action
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Film",AsianCrush
