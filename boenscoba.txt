@@ -489,33 +489,6 @@ https://mangga-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.m
 
 <==========Movies==========>
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIE", ETV BIOSKOP 1
-http://kuchini.site:8080/devtv/5af3eeb538/298526
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298526
-http://kuchini.site:8080/Raionew/2e1df8e7/298526
-http://37.49.230.161:8080/3f6d5b2f/4b60123137/298526
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIE", ETV BIOSKOP 2
-http://kuchini.site:8080/devtv/5af3eeb538/298527
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298527
-http://kuchini.site:8080/Raionew/2e1df8e7/298527
-http://37.49.230.161:8080/3f6d5b2f/4b60123137/298527
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIE", ETV BIOSKOP 3
-http://kuchini.site:8080/devtv/5af3eeb538/298528
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298528
-http://kuchini.site:8080/Raionew/2e1df8e7/298528
-http://37.49.230.161:8080/3f6d5b2f/4b60123137/298528
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIE", ETV BIOSKOP 4
-http://kuchini.site:8080/devtv/5af3eeb538/298529
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298529
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
-http://kuchini.site:8080/Raionew/2e1df8e7/298529
-http://37.49.230.161:8080/3f6d5b2f/4b60123137/298529
 
 <==========Sports==========>
 
