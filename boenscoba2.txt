@@ -1,17 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@davidsonseventh
-davidsonseventh/IPTV ID.m3u8
-Last active 8 months ago • Report abuse
-Code
-Revisions
-3
-Clone this repository at &lt;script src=&quot;https://gist.github.com/davidsonseventh/54342aa58bd1a33a8e5183ad1043d801.js&quot;&gt;&lt;/script&gt;
-<script src="https://gist.github.com/davidsonseventh/54342aa58bd1a33a8e5183ad1043d801.js"></script>
-IPTV ID.m3u8
 #EXTM3U
 
 
