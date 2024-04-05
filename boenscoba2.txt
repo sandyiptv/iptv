@@ -1,5 +1,1 @@
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6 
-#KODIPROP:inputstream.adaptive.license_key=https://alfa.otv.my.id/max_otto/drm.php?&key=DASHHBOSIGNATURE3DRM 
-#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/banner_xxhdpi.jpg" tvg-id="HBOSignature.id" tvg-name="ID: HBO Signature" group-title="Movies",HBO Signature (MAX) 
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
